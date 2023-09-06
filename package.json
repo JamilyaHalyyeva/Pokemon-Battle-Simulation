@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WD23-E04/Pokemon-Battle-Simulation.git"
+    "url": "git@github.com:JamilyaHalyyeva/Pokemon-Battle-Simulation.git"
   },
   "author": "Jamilya Halyyeva",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/WD23-E04/Pokemon-Battle-Simulation/issues"
+    "url": "https://github.com/JamilyaHalyyeva/Pokemon-Battle-Simulation/issues"
   },
-  "homepage": "https://github.com/WD23-E04/Pokemon-Battle-Simulation#readme"
+  "homepage": "https://github.com/JamilyaHalyyeva/Pokemon-Battle-Simulation#readme"
 }
